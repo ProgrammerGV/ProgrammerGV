@@ -6,7 +6,7 @@
 
 <!-- Título Dinâmico com cor Neon Cyan -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;Dev+%40+Grupo+Plant%C3%A3o;Java+%26+Next.js+Ecosystem;Clean+Architecture+%26+Hooks" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer;Full-Stack+Developer;Java+%26+Next.js+Ecosystem;Clean+Architecture+%26+Solid" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,13 +25,12 @@
 
 ## 👨‍💻 `~/sobre-mim`
 
-Sou um desenvolvedor **Full-Stack** com foco na construção de aplicações escaláveis e arquiteturas limpas. Atualmente, atuo no **Grupo Plantão**, integrando microsserviços robustos com interfaces dinâmicas e tipadas, e sou estudante de Análise e Desenvolvimento de Sistemas.
+Sou um **Desenvolvedor Full-Stack** focado na construção de aplicações escaláveis e arquiteturas limpas. Projeto e integro microsserviços robustos com interfaces dinâmicas e altamente tipadas, prezando sempre por código manutenível, regras de negócio sólidas e performance.
 
 ```java
-public class Gabriel extends FullStackDeveloper {
+public class Gabriel extends SoftwareEngineer {
     private final String location = "Salvador, Bahia 🇧🇷";
-    private final String education = "ADS @ IFBA - Campus Barbalho";
-    private final String currentCompany = "Grupo Plantão";
+    private final String focus = "High-Performance Web Applications";
     
     private final String[] backend = {"Java", "PostgreSQL", "Docker", "DBeaver"};
     private final String[] frontend = {"Next.js 14", "React 18", "TypeScript 5", "Tailwind CSS", "MUI v5"};
@@ -41,7 +40,7 @@ public class Gabriel extends FullStackDeveloper {
         return Map.of(
             "src/pages", "Estrutura de rotas baseada no Pages Router",
             "src/ui/components", "Biblioteca de componentes reutilizáveis (MUI/Tailwind)",
-            "src/data/hooks", "Lógica de chamadas de API e estados",
+            "src/data/hooks", "Encapsulamento de chamadas de API e regras de negócio",
             "src/data/contexts", "Gerenciamento de estado global via Context API"
         );
     }
