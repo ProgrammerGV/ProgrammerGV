@@ -1,40 +1,27 @@
-<div align="center">
+# Gabriel Vinicius
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer;Full-Stack+%26+DevOps;Java,+Python+%26+TypeScript;Cloud,+Docker+%26+CI%2FCD" alt="Typing SVG" />
-</a>
+Desenvolvedor de software com experiência em aplicações full-stack, automação e infraestrutura. Estudante de Análise e Desenvolvimento de Sistemas no IFBA, com conclusão prevista para março de 2028.
 
-<br/>
+Tenho aprofundado minha atuação em IA aplicada ao software, com atenção à integração de modelos, recuperação de informação, avaliação e apresentação de evidências.
 
-<a href="https://www.linkedin.com/in/gabriel-vinici%C3%BAs-8539521b7/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<img src="https://img.shields.io/badge/Salvador,%20BR-%F0%9F%87%A7%F0%9F%87%B7-00E5FF?style=for-the-badge" alt="location" />
+## Projeto em destaque
 
-</div>
+### [Edital Inteligente](https://github.com/ProgrammerGV/edital-inteligente)
 
-<br/>
+Evolução de um rastreador de editais para consultar PDFs públicos com fontes por página. Compara TF-IDF e embeddings multilíngues, inclui API Flask, interface web, testes e avaliação reproduzível. Integração opcional com Ollama; geração local ainda pendente de validação.
 
-## 👨‍💻 `~/sobre-mim`
+[Código e execução](https://github.com/ProgrammerGV/edital-inteligente) · [Experimento e limitações](https://github.com/ProgrammerGV/edital-inteligente/blob/main/docs/artigo.md)
 
-Sou **Desenvolvedor Full-Stack & DevOps** focado na construção de aplicações escaláveis, automação de infraestrutura e arquiteturas limpas. Projeto e integro APIs e microsserviços robustos com interfaces dinâmicas e ambientes padronizados em nuvem, prezando sempre por código manutenível, disponibilidade e performance.
+## Tecnologias
 
-```java
-public class Gabriel extends SoftwareEngineer {
-    private final String location = "Salvador, Bahia 🇧🇷";
-    private final String focus = "Scalable Web Applications & Cloud Infrastructure";
+- Software: Java, Spring Boot, Python e TypeScript.
+- Aplicações web: Angular, React e Next.js.
+- Infraestrutura e automação: Docker, Linux, AWS, Terraform e CI/CD.
+- Estudo em IA aplicada: embeddings, busca semântica, integração de LLMs e avaliação de recuperação.
 
-    private final String[] backend = {"Java (Spring Boot)", "C# (.NET)", "Python", "PostgreSQL", "MySQL"};
-    private final String[] devops  = {"AWS", "Docker", "Terraform", "Ansible", "GitHub Actions (CI/CD)", "Linux"};
-    private final String[] servers = {"Nginx", "Apache Tomcat", "IIS", "Datadog"};
-    private final String[] frontend = {"Next.js", "React", "Angular", "TypeScript", "Tailwind CSS"};
+## Outros projetos
 
-    public Map<String, String> getArchitectureAndOps() {
-        return Map.of(
-            "infra/cloud", "Provisionamento e sustentação em nuvem AWS com Terraform, Docker e Linux",
-            "ops/ci-cd",   "Automação de build, testes, deploys e rotinas operacionais (Bash/Python/n8n)",
-            "app/backend", "APIs RESTful e microsserviços com Clean Architecture, SOLID e alta disponibilidade",
-            "app/frontend","Interfaces escaláveis e tipadas integradas com React, Next.js e Angular"
-        );
-    }
-}
+- [Rastreador de editais — origem](https://github.com/ProgrammerGV/INF032-Programa-o_Python/tree/main/projeto/rastreador-editais)
+- [Ford — aplicação Angular](https://github.com/ProgrammerGV/Ford)
+
+[LinkedIn](https://www.linkedin.com/in/gabriel-vinici%C3%BAs-8539521b7/)
