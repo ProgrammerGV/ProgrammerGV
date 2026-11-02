@@ -8,7 +8,7 @@ Tenho aprofundado minha atuação em IA aplicada ao software, com atenção à i
 
 ### [Edital Inteligente](https://github.com/ProgrammerGV/edital-inteligente)
 
-Evolução de um rastreador de editais para consultar PDFs públicos com fontes por página. Compara TF-IDF e embeddings multilíngues, inclui API Flask, interface web, testes e avaliação reproduzível. Integração opcional com Ollama; geração local ainda pendente de validação.
+Evolução de um rastreador de editais para consultar PDFs públicos com fontes por página. Compara TF-IDF e embeddings multilíngues, inclui API Flask, interface web, testes e avaliação reproduzível. LLM local executado e avaliado com Ollama e Llama 3.2 3B. A busca é o modo principal; geração experimental, com erros e limitações publicados na avaliação.
 
 [Código e execução](https://github.com/ProgrammerGV/edital-inteligente) · [Experimento e limitações](https://github.com/ProgrammerGV/edital-inteligente/blob/main/docs/artigo.md)
 
