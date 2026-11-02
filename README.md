@@ -1,27 +1,56 @@
-# Gabriel Vinicius
+<div align="center">
 
-Desenvolvedor de software com experiência em aplicações full-stack, automação e infraestrutura. Estudante de Análise e Desenvolvimento de Sistemas no IFBA, com conclusão prevista para março de 2028.
+# Gabriel Viniciús
 
-Tenho aprofundado minha atuação em IA aplicada ao software, com atenção à integração de modelos, recuperação de informação, avaliação e apresentação de evidências.
+**Desenvolvimento de software · Automação · IA aplicada**
 
-## Projeto em destaque
+[Portfólio](https://programmergv.github.io/) · [LinkedIn](https://www.linkedin.com/in/gabriel-vinici%C3%BAs-8539521b7/) · [Currículo](https://programmergv.github.io/assets/curriculo-gabriel-vinicius.pdf)
 
-### [Edital Inteligente](https://github.com/ProgrammerGV/edital-inteligente)
+</div>
 
-Evolução de um rastreador de editais para consultar PDFs públicos com fontes por página. Compara TF-IDF e embeddings multilíngues, inclui API Flask, interface web, testes e avaliação reproduzível. LLM local executado e avaliado com Ollama e Llama 3.2 3B. A busca é o modo principal; geração experimental, com erros e limitações publicados na avaliação.
+Sou desenvolvedor full-stack e estudante de **Análise e Desenvolvimento de Sistemas no IFBA**, com conclusão prevista para março de 2028. Trabalho com sistemas corporativos, integrações e automações, conectando minha experiência em software ao estudo de IA aplicada.
 
-[Código e execução](https://github.com/ProgrammerGV/edital-inteligente) · [Experimento e limitações](https://github.com/ProgrammerGV/edital-inteligente/blob/main/docs/artigo.md)
+Atualmente, aprofundo meus conhecimentos em recuperação de informação, embeddings, integração de modelos locais e avaliação de resultados.
+
+## Projetos para experimentar
+
+### Edital Inteligente
+
+Consulta a editais públicos em PDF com trechos e páginas para conferir a origem da informação. Aplicação Flask com busca TF-IDF, comparação com embeddings multilíngues e avaliação reproduzível. A demonstração online usa TF-IDF; os experimentos com MiniLM e geração via Ollama podem ser executados localmente.
+
+**Python · Flask · scikit-learn · MiniLM · Ollama**
+
+[Acessar aplicação](https://programmergv-edital-inteligente.onrender.com/) · [Código](https://github.com/ProgrammerGV/edital-inteligente) · [Avaliação e decisões técnicas](https://github.com/ProgrammerGV/edital-inteligente/blob/main/docs/artigo.md)
+
+[![Testes do Edital Inteligente](https://github.com/ProgrammerGV/edital-inteligente/actions/workflows/tests.yml/badge.svg)](https://github.com/ProgrammerGV/edital-inteligente/actions/workflows/tests.yml)
+
+### Rastreador de Editais
+
+Coleta publicações de fontes configuradas, aplica filtros e organiza resultados em um painel web. A demonstração pública permite consultar e executar a coleta nas fontes predefinidas.
+
+**Python · Flask · BeautifulSoup · pandas · Docker**
+
+[Acessar aplicação](https://inf032-programa-o-python.onrender.com/) · [Código e instruções](https://github.com/ProgrammerGV/INF032-Programa-o_Python/tree/main/projeto/rastreador-editais)
+
+[![Testes do Rastreador](https://github.com/ProgrammerGV/INF032-Programa-o_Python/actions/workflows/rastreador.yml/badge.svg)](https://github.com/ProgrammerGV/INF032-Programa-o_Python/actions/workflows/rastreador.yml)
+
+### Portfólio
+
+Site com acesso às aplicações, código, currículo e contato. O GitHub Actions valida o conteúdo e publica automaticamente pelo GitHub Pages após a aprovação.
+
+[Acessar portfólio](https://programmergv.github.io/) · [Código](https://github.com/ProgrammerGV/programmergv.github.io)
+
+[![Portfólio CI/CD](https://github.com/ProgrammerGV/programmergv.github.io/actions/workflows/checks.yml/badge.svg)](https://github.com/ProgrammerGV/programmergv.github.io/actions/workflows/checks.yml)
+
+As aplicações no Render Free podem demorar para abrir após um período sem acesso.
 
 ## Tecnologias
 
-- Software: Java, Spring Boot, Python e TypeScript.
-- Aplicações web: Angular, React e Next.js.
-- Infraestrutura e automação: Docker, Linux, AWS, Terraform e CI/CD.
-- Estudo em IA aplicada: embeddings, busca semântica, integração de LLMs e avaliação de recuperação.
+- **Backend:** Java, Spring Boot, Python, APIs REST e SQL.
+- **Frontend:** TypeScript, Angular, React e Next.js.
+- **Automação e infraestrutura:** n8n, Docker, Linux e GitHub Actions.
+- **Estudos em IA:** busca semântica, embeddings, integração de LLMs e avaliação.
 
-## Outros projetos
+## Contato
 
-- [Rastreador de editais — origem](https://github.com/ProgrammerGV/INF032-Programa-o_Python/tree/main/projeto/rastreador-editais)
-- [Ford — aplicação Angular](https://github.com/ProgrammerGV/Ford)
-
-[LinkedIn](https://www.linkedin.com/in/gabriel-vinici%C3%BAs-8539521b7/)
+[LinkedIn](https://www.linkedin.com/in/gabriel-vinici%C3%BAs-8539521b7/) · [WhatsApp: (71) 99311-0482](https://wa.me/5571993110482)
