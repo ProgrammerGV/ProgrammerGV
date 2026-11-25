@@ -10,9 +10,19 @@
 
 Sou desenvolvedor full-stack e estudante de **Análise e Desenvolvimento de Sistemas no IFBA**, com conclusão prevista para março de 2028. Trabalho com sistemas corporativos, integrações e automações, conectando minha experiência em software ao estudo de IA aplicada.
 
-Atualmente, aprofundo meus conhecimentos em recuperação de informação, embeddings, integração de modelos locais e avaliação de resultados.
+Atualmente, aprofundo meus conhecimentos em recuperação de informação, visão computacional, integração de modelos locais e avaliação de resultados.
 
-## Projetos para experimentar
+## Projetos em destaque
+
+### SiteWatch AI
+
+Análise local de vídeo para revisar ocorrências de câmera. Combina detecção de movimento com presença humana por YOLO26n, registra evidências e mantém a decisão humana junto da classificação automática. Um replay controlado validou o fluxo com movimento sem pessoa e presença em uma imagem estática.
+
+**Python · OpenCV · YOLO26n · FastAPI · React · PostgreSQL**
+
+[Ver no portfólio](https://programmergv.github.io/#projeto-sitewatch-ai) · [Código e instruções](https://github.com/ProgrammerGV/sitewatch-ai) · [Estudo de caso](https://github.com/ProgrammerGV/sitewatch-ai/blob/main/docs/ESTUDO-DE-CASO.md)
+
+[![CI do SiteWatch AI](https://github.com/ProgrammerGV/sitewatch-ai/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ProgrammerGV/sitewatch-ai/actions/workflows/ci.yml)
 
 ### Edital Inteligente
 
@@ -49,7 +59,7 @@ As aplicações no Render Free podem demorar para abrir após um período sem ac
 - **Backend:** Java, Spring Boot, Python, APIs REST e SQL.
 - **Frontend:** TypeScript, Angular, React e Next.js.
 - **Automação e infraestrutura:** n8n, Docker, Linux e GitHub Actions.
-- **Estudos em IA:** busca semântica, embeddings, integração de LLMs e avaliação.
+- **Estudos em IA:** visão computacional, busca semântica, embeddings, integração de modelos locais e avaliação.
 
 ## Contato
 
